@@ -38,5 +38,6 @@ seaborn
    ### Run tne dataformodel.ipynb (*)
         You can choose any measures you want to use to fit the models. In the paper, We use the success/session, angular error and distance travelled. Then you will get the model_session_final.csv and model_trial_final.csv in our figshare link.
 
-
+# Example videos
+Liu, Zhuoxin (2024). Example videos of FOV adpatation. figshare. Media. https://doi.org/10.6084/m9.figshare.27080731.v1
 # Updated on 23/9/2024
