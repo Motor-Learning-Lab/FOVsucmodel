@@ -15,7 +15,7 @@ seaborn
    ### Make sure that output plots folders are all right for you
         After you prepare the Python environment and modify the output file 
    ### Make sure you can connect to the internet (figshare) and run the model ipynb files  
-      1. In the successpersession folder, run ESTgamma.ipynb. Input is the model_session_final.csv which should be automatically downloaded to the corresponding folder. You can also got to https://figshare.com/articles/dataset/Data_of_the_Bayesian_model/27061012 and download the data mmanually. The whole process of the Baysian analysis is included in the file. 
+      1. In the successpersession folder, run ESTgamma.ipynb. Input is the model_session_patched.csv which should be automatically downloaded to the corresponding folder. You can also got to https://figshare.com/articles/dataset/Data_of_the_Bayesian_model/27061012 and download the data mmanually. The whole process of the Baysian analysis is included in the file. 
       2.Similarly, In the angularerror folder, run fovdisD2.ipynb. Input is the model_trial_final.csv which should be automatically downloaded to the corresponding folder.
       3.Similarly, In the distancetravelled folder, run fovM4D2.ipynb. Input is the model_trial_final.csv which should be automatically downloaded to the corresponding folder.
   ## if you are willing to go through all the process
@@ -36,7 +36,7 @@ seaborn
    ### Run Measureplot.ipynb and Ameasureplot.ipynb (Optinal)
         You can check the meaure plots by these code. Measureplot.ipynb is for the indivual fish. Amesureplot.ipynb is for the measure across fish.
    ### Run tne dataformodel.ipynb (*)
-        You can choose any measures you want to use to fit the models. In the paper, We use the success/session, angular error and distance travelled. Then you will get the model_session_final.csv and model_trial_final.csv in our figshare link.
+        You can choose any measures you want to use to fit the models. In the paper, We use the success/session, angular error and distance travelled. Then you will get the model_session_final.csv， model_session_patched.csv and model_trial_final.csv in our figshare link.
 
 # Example videos
 Liu, Zhuoxin (2024). Example videos of FOV adpatation. figshare. Media. https://doi.org/10.6084/m9.figshare.27080731.v1
